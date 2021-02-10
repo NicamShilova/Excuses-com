@@ -25,13 +25,20 @@ Télécharger l'archive 'A201912.csv.gz' et le classeur 'Descriptif OpenDamir su
 Dans Anaconda, creer un environnement, puis installer Spark dedans
 
 Dans le classeur, extraire en format csv chaque onglet suivants :
-	- AGE_BEN_SNDS, sous le nom 'age_ben_snds_csv'
-	- ASU_NAT, sous le nom 'asu_nat_csv'
-	- ATT_NAT, sous le nom 'att_nat_csv'
-	- BEN_QLT_COD, sous le nom 'ben_qlt_cod_csv'
-	- DDP_SPE_COD, sous le nom 'ddp_spe_cod_csv'
-	- EXO_MTF, sous le nom 'mdt_typ_cod_csv'
-	- MDT_TYP_COD, sous le nom 'exo_mtf_csv'
+
+- AGE_BEN_SNDS, sous le nom 'age_ben_snds_csv'
+
+- ASU_NAT, sous le nom 'asu_nat_csv'
+
+- ATT_NAT, sous le nom 'att_nat_csv'
+
+- BEN_QLT_COD, sous le nom 'ben_qlt_cod_csv'
+
+- DDP_SPE_COD, sous le nom 'ddp_spe_cod_csv'
+
+- EXO_MTF, sous le nom 'mdt_typ_cod_csv'
+
+- MDT_TYP_COD, sous le nom 'exo_mtf_csv'
 	
 Importer master.ipynb dans Databricks
 
